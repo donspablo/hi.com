@@ -1,5 +1,5 @@
 ---
-title: 'hi.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'hi.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 hi.com is under construction."
 ---
 
